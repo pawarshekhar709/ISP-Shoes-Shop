@@ -16,6 +16,17 @@ This is a simple website for a shoe store. It includes sections for home, about,
 - Contact form with Google Maps integration
 - Social media links in the footer
 
+## Technologies Used
+
+The following technologies were used in the development of this project:
+
+- **HTML5:** Markup language for structuring the content of the website.
+- **CSS3:** Stylesheets for styling and layout of the web pages.
+- **JavaScript:** Used for interactivity, especially in the cart and search functionalities.
+- **Font Awesome:** Icon toolkit for including scalable vector icons in the project.
+- **Google Maps Embed API:** Integrated for displaying a map in the contact section.
+- **GitHub:** Version control and repository hosting.
+
 ## Usage
 
 1. Clone the repository:
