@@ -37,7 +37,11 @@ The following technologies were used in the development of this project:
 
 2. Open the `index.html` file in a web browser.
 
-3. Explore different sections such as home, about, menu, products, 
+3. Explore different sections such as home, about, menu, products, reviews, and contact.
+
+4. Customize the content, images, and styles as needed.
+
+## Credits
 
 - **Author:** Shekhar Pawar
 - **Social Media:**
