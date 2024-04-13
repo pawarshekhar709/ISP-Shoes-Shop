@@ -2,6 +2,13 @@
 
 This is a simple website for a shoe store. It includes sections for home, about, menu, products, reviews, and contact.
 
+## Table of Contents
+- [Features](#features)
+- [Usage](#usage)
+- [Credits](#credits)
+
+## Features
+
 - Responsive design
 - Navigation through different sections
 - Product showcase with images and prices
