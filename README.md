@@ -13,7 +13,7 @@ This is a simple website for a shoe store. It includes sections for home, about,
 - Navigation through different sections
 - Product showcase with images and prices
 - Customer review section
-- Contact form with ntegration
+- Contact form with Google Maps integration
 - Social media links in the footer
 
 ## Technologies Used
