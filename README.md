@@ -8,7 +8,7 @@ This is a simple website for a shoe store. It includes sections for home, about,
 - [Cr
 ## Features
 
-- Res
+- Responsive design
 - Navigation through different sections
 - Product showcase with images and prices
 - Customer review section
