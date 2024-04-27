@@ -31,7 +31,9 @@ The following technologies were used in the development of this project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/pawarshekhar7
+    git clone https://github.com/pawarshekhar709/ISP-Shoes-Shop.git
+    ```
+
 2. Open the `index.html` file in a web browser.
 
 3. Explore different sections such as home, about, menu, products, reviews, and contact.
