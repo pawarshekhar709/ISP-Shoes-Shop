@@ -6,7 +6,6 @@ This is a simple website for a shoe store. It includes sections for home, about,
 - [Features](#features)
 - [Usage](#usage)
 - [Cr
-## Features
 
 - Responsive design
 - Navigation through different sections
