@@ -4,7 +4,8 @@ This is a simple website for a shoe store. It includes sections for home, about,
 
 ## Table of Contents
 - [Features](#features)
-- [Usage](#us
+- [Usage](#usage)
+- [Cr
 ## Features
 
 - Responsive design
