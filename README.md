@@ -17,8 +17,7 @@ This is a simple website for a shoe store. It includes sections for home, about,
 
 ## Technologies Used
 
-The following technologies were used in the development of this project:
-
+The following technologies were used in the developmen
 - **HTML5:** Markup language for structuring the content of the website.
 - **CSS3:** Stylesheets for styling and layout of the web pages.
 - **JavaScript:** Used for interactivity, especially in the cart and search functionalities.
