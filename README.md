@@ -54,4 +54,4 @@ The following technologies were used in the development of this project:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ](http://13.233.211.102/DoctorCollection/opdlogin/akash123)
-](http://13.233.211.102/DoctorCollection/opdlogin/akash123)
+]
